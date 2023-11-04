@@ -1,0 +1,25 @@
+p {
+    background-color: lightpink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#blue-text {
+    color: blue;
+    font-size: 36px;
+}
+
+#font-size {
+    font-size: 24px;
+    background: lightgreen;
+    font-weight: bold;
+}
+
+.font {
+    font-family: times
+}
+
+.green-background {
+    
+    font-size: 24px;
+    
+}
